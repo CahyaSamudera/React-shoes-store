@@ -1,0 +1,5 @@
+.btn-about {
+  background-color: var(--primary-color);
+  color: #fff !important;
+  border-radius: 5px !important;
+}
